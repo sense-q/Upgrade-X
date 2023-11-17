@@ -1,0 +1,8 @@
+{
+  "namespace": "upgradeX",
+  "name": "Upgrade X",
+  "icon": "https://i.ibb.co/41gphYm/modio-icon-sm.png",
+  "load": ["templates.min.html"],
+  "setup": "setup.mjs",
+  "version": "1.0.1"
+}

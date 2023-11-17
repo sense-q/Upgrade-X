@@ -1,0 +1,16 @@
+{
+  "name": "upgrade-x",
+  "version": "1.0.1",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "esbuild": "node scripts/esbuild.js"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "melvor-types": "https://github.com/GamesByMalcsPtyLtd/Melvor-Typing-Project"
+  },
+  "standard-version": {
+    "tag-prefix": "Upgrade-X@v"
+  }
+}
